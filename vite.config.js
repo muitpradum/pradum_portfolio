@@ -7,5 +7,5 @@ export default defineConfig({
   plugins: [react(),
   tailwindcss(),
   ],
-  base: '/React_portfolio/',
+  base: '/pradum_portfolio/',
 })
