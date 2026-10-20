@@ -19,7 +19,7 @@ function App() {
   return (
     <>
      
-      <BrowserRouter basename="/React_portfolio">
+      <BrowserRouter basename="/pradum_portfolio">
       <Navbar/>
         <Routes>
           <Route path="/" element={<Home />} />
